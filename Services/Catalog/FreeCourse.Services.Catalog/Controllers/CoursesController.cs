@@ -1,7 +1,6 @@
 ﻿using FreeCoures.Shared.ControllerBases;
 using FreeCourse.Services.Catalog.Dtos.CourseDto;
 using FreeCourse.Services.Catalog.Services;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
 
